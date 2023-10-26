@@ -1,0 +1,14 @@
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.AssemblyInfoInputs.cache
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.AssemblyInfo.cs
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.csproj.CoreCompileInputs.cache
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\bin\Debug\net6.0\dadosdeLivros.exe
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\bin\Debug\net6.0\dadosdeLivros.deps.json
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\bin\Debug\net6.0\dadosdeLivros.runtimeconfig.json
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\bin\Debug\net6.0\dadosdeLivros.dll
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\bin\Debug\net6.0\dadosdeLivros.pdb
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.dll
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\refint\dadosdeLivros.dll
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.pdb
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\dadosdeLivros.genruntimeconfig.cache
+C:\Users\Quiqu\OneDrive\Área de Trabalho\Faculdade\Periodo 2\Técnicas de programação\C#\dadosdeLivros\dadosdeLivros\obj\Debug\net6.0\ref\dadosdeLivros.dll
